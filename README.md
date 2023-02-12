@@ -18,9 +18,8 @@ In this repository I will be documentating my journey of learning Front-End Deve
 
 ### 💪🏼 Progress:
 
-#### Day 1
 <details>
-<summary>Introduction to React</summary>
+<summary>Day 1: Introduction to React</summary>
 
 
 
