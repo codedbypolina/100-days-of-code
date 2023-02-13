@@ -35,11 +35,31 @@ I have a better understanding why developers use React! It is composable (you ca
 
 🧠 **What I learned:**
 - That React is composable & declarative
-- How to set up React
+- Different ways to set up React in the project
 - What are JSX, React Components and how to use them
 - Outside of Scrimba, I learned how to set up React locally on my computer, using VS code
 
 👩🏼‍💻 **What I built:**
 - I already started to build my [first React project](https://github.com/codedbypolina/learning-react)! It is a simple landing page that enforces me to practice how to set up React, use JSX and organize components. With this project I realized that I started to forget some CSS, so I need to refresh my memory on its important basics (e.g. flexbox...)
 
+</details>
+
+
+<details>
+<summary>Day 2: CSS background image</summary>
+
+🗓 **Date:** February 12, 2023
+
+📝 **Personal Notes:**
+
+Today I finished building my [first React project](https://github.com/codedbypolina/learning-react)! I mostly updated styling - background image in particular. Since I never learned how to use the background image, I found this [video](https://www.youtube.com/watch?v=zHZRFwWQt2w) by Kevin Powell to understand the basics.
+
+🧠 **What I learned:**
+- To use an image in the background, I should use background-image in CSS rather than putting the image in HTML
+- It's better to use padding instead of height. When you need set a section or adjust image height, it is better to use padding instead. This is especially a better approach for the responsive design
+- Avoid using big images to keep the file size as low as possible. For a background image, 1200 pixels is mostly enough.
+- Make sure that the text is readable on top of the background image. One of the options is to use background-blend-mode: **multiply** is for darkening the image; **lighten** is for lightening the image. Make sure to have a background-color as well to use this property!
+
+👩🏼‍💻 **What I built:**
+- I finished building my [first React project](https://github.com/codedbypolina/learning-react)! 
 </details>
