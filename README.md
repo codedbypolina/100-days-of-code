@@ -63,3 +63,20 @@ Today I finished building my [first React project](https://github.com/codedbypol
 👩🏼‍💻 **What I built:**
 - I finished building my [first React project](https://github.com/codedbypolina/learning-react)! 
 </details>
+
+<details>
+<summary>Day 3: Working on React Solo Project</summary>
+
+🗓 **Date:** February 13, 2023
+
+📝 **Personal Notes:**
+
+Today I started working on a Solo Project - a project where I was only given design without any directions or guides on how to complete it. The task was to code digital business card using React and CSS. This project, once again, enforced me to practice React basics: setting up React locally on my computer, using JSX syntax and organizing React components properly within the files. However, it also helped me to refresh my memories on CSS!
+
+🧠 **What I learned:**
+- Center elements with CSS. This [article](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/) was particularly useful!
+- How to use border-radius for images and other elements
+
+👩🏼‍💻 **What I built:**
+- I started building my [React Solo Project](https://github.com/codedbypolina/digital-business-card)! 
+</details>
