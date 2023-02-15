@@ -80,3 +80,19 @@ Today I started working on a Solo Project - a project where I was only given des
 👩🏼‍💻 **What I built:**
 - I started building my [React Solo Project](https://github.com/codedbypolina/digital-business-card)! 
 </details>
+
+<details>
+<summary>Day 4: Completing React Solo Project</summary>
+
+🗓 **Date:** February 14, 2023
+
+📝 **Personal Notes:**
+
+Today I didn't make a lot of progress - I only had time to finish React Solo Project. However, with that, I am moving to the next part of Scrimba React Course! Super excited for that😁
+
+🧠 **What I learned:**
+- Not much, to be honest. Today was a short and straightforward coding day!
+
+👩🏼‍💻 **What I built:**
+- I finished my [React Solo Project](https://github.com/codedbypolina/digital-business-card)! 
+</details>
