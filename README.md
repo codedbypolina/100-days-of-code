@@ -96,3 +96,20 @@ Today I didn't make a lot of progress - I only had time to finish React Solo Pro
 👩🏼‍💻 **What I built:**
 - I finished my [React Solo Project](https://github.com/codedbypolina/digital-business-card)! 
 </details>
+
+<details>
+<summary>Day 5: Starting Airbnb Project</summary>
+
+🗓 **Date:** February 15, 2023
+
+📝 **Personal Notes:**
+
+I started the second part of Scrimba React Course! In this section, I will be learning about props and creating components from an array. Today I created a new [React project](https://github.com/codedbypolina/airbnb-experience-react) and mostly worked with CSS and basic React that I learned so far.
+
+🧠 **What I learned:**
+- I reminded myself how to use box-shadow😅
+- How to use width's max/min/fit-content keywords to make the image more responsive!
+
+👩🏼‍💻 **What I built:**
+- I started [Airbnb Clone React Project](https://github.com/codedbypolina/airbnb-experience-react)! 
+</details>
