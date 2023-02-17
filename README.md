@@ -113,3 +113,20 @@ I started the second part of Scrimba React Course! In this section, I will be le
 👩🏼‍💻 **What I built:**
 - I started [Airbnb Clone React Project](https://github.com/codedbypolina/airbnb-experience-react)! 
 </details>
+
+<details>
+<summary>Day 6: Updating personal website</summary>
+
+🗓 **Date:** February 16, 2023
+
+📝 **Personal Notes:**
+
+Today I postponed coding till the very last hour of the day, and...suprise-suprise! I felt too exhausted to learn anything. Instead, I updated my portfolio website, adding the Coming Soon section.
+
+Reminder for myself: Try to code at the beginning of the day, since at the end of the day you could get too exshausted to learn or code anything!
+
+🧠 **What I learned:**
+- Nothing since I just updated my website. Small progress is still a progress!
+
+👩🏼‍💻 **What I built:**
+- I updated my [personal portfolio](https://www.codedbypolina.com/)
