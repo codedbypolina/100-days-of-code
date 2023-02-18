@@ -1,4 +1,4 @@
-# 100 Days Of Code
+# 👩🏼‍💻 100 Days Of Code
 
 ### 📝 Description:
 In this repository I will be documentating my journey of learning Front-End Development for the next 100 days in a row.
@@ -130,3 +130,26 @@ Reminder for myself: Try to code at the beginning of the day, since at the end o
 
 👩🏼‍💻 **What I built:**
 - I updated my [personal portfolio](https://www.codedbypolina.com/)
+</details>
+
+<details>
+<summary>Day 7: Building Exercise App</summary>
+
+🗓 **Date:** February 17, 2023
+
+📝 **Personal Notes:**
+
+Today I did a lot of progress! I learned about React props, useState hook, and how to create separate React pages using Router.
+
+I also built a simple exercise app for my Mobile Development class in the university. This app gives the user a list of exercises to pick from, however all these exercises are of two types - ones that require timer (ex: biking) and others that require repetitions input (push ups). Once the user clicks on one of the exercises, he/she is taking to another page where the user can either track time or reps. In both pages, user is allowed to reset the input or return to home page. 
+
+I enjoyed building this app, since I am finally starting to see the power of React! I'm also gradually understanding that React isn't as terrifying as I thought at first!
+
+🧠 **What I learned:**
+- React props - why they are important and how to use them!
+- useState hook. I haven't dived deeper into hooks in general and why they are useful, however, I learned why useState hook is particulary important and implemented this knowledge for the app!
+- How to create separate pages in React, using Router. Suprisingly implementing this knowledge in the exercise app, was the most challenging thing to do overall! I faced with page loading issues while figuring it out, but at the end I made it work🥳
+
+👩🏼‍💻 **What I built:**
+- I built an exercise app! I hope to link it later, once I confirm with the professor that it's okay to make my work public!
+</details>
