@@ -153,3 +153,20 @@ I enjoyed building this app, since I am finally starting to see the power of Rea
 👩🏼‍💻 **What I built:**
 - I built an exercise app! I hope to link it later, once I confirm with the professor that it's okay to make my work public!
 </details>
+
+<details>
+<summary>Day 8: React props practice</summary>
+
+🗓 **Date:** February 18, 2023
+
+📝 **Personal Notes:**
+
+Today I didn't feel like doing a lot, so I watched several Scrimba videos where I practiced how to use props. Next Scrimba lesson goes through .map method - something I've been struggling in the past to fully comprehend, so I will be needing to take some time to overview this concept as well as learn how to map through components. And, to be honest, I just don't have energy to do so today, so I am postponing it for tomorrow.
+
+From my past 2 attempts to do 100 days of code in a row, I understand that it's important to not burn myself out so I am choosing to not force myself to learn this concept today! 
+
+🧠 **What I learned:**
+- Mostly practiced how React props work thanks to Scrimba (truly enjoying this platform!)
+
+👩🏼‍💻 **What I built:**
+- I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react) by incorporating props into the project
