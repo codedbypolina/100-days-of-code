@@ -170,3 +170,21 @@ From my past 2 attempts to do 100 days of code in a row, I understand that it's 
 
 👩🏼‍💻 **What I built:**
 - I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react) by incorporating props into the project
+</details>
+
+<details>
+<summary>Day 9: Array.maps() in React</summary>
+
+🗓 **Date:** February 19, 2023
+
+📝 **Personal Notes:**
+
+Today I took time to better understand array.map() method and succesfully implemented this knowledge in Airbnb Clone project! However, I am struggling to map images in the project. I hope to figure it out tomorrow!
+
+🧠 **What I learned:**
+- Array.map() method
+- How to implement .map() in React
+
+👩🏼‍💻 **What I built:**
+- I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react) by incorporating .map method
+</details>
