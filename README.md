@@ -172,6 +172,7 @@ From my past 2 attempts to do 100 days of code in a row, I understand that it's 
 - I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react) by incorporating props into the project
 </details>
 
+
 <details>
 <summary>Day 9: Array.maps() in React</summary>
 
@@ -187,4 +188,23 @@ Today I took time to better understand array.map() method and succesfully implem
 
 👩🏼‍💻 **What I built:**
 - I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react) by incorporating .map method
+</details>
+
+<details>
+<summary>Day 10: Figuring out how to .map images</summary>
+
+🗓 **Date:** February 20, 2023
+
+📝 **Personal Notes:**
+
+Today I've been trying to figure out how to map through images. After trying out different ways I found on the internet, the only option that worked for me so far was to use the images that are hosted externally, not internally on my local computer. During my little research, I learned that in general hosting images externally is a better and a more common practice rather than keeping them locally.
+
+I didn't host the images myself for this project. I found these images online. I understand that this is not the best practice since the image could be removed, thus the website will have a broken image. For this project, however, I didn't find it valuable to do the extra steps, since my current focus is to learn React.
+
+🧠 **What I learned:**
+- How to map through an array of images
+- Hosting images externally is a much common practice in real life, than host images locally on the computer
+
+👩🏼‍💻 **What I built:**
+- I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react)
 </details>
