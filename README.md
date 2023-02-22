@@ -228,3 +228,20 @@ Today completed Airbnb Project and finished the 2nd section of Scrimba React Cou
 👩🏼‍💻 **What I built:**
 - I completed my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react)
 </details>
+
+<details>
+<summary>Day 12: Starting my second Solo Project</summary>
+
+🗓 **Date:** February 22, 2023
+
+📝 **Personal Notes:**
+
+Today I started my second solo project - [Travel Journal](https://github.com/codedbypolina/travel-journal). The goal of this project is to reinforce my knowledge of props and map method. Today I only hard coded navbar and the card. While working on the styling of the card, I realized that I am lacking foundational knowledge of Grid and Flexbox. Since I learned them awhile ago and haven't practiced them regularly, I am struggling to position items withing the container in a desired way. Therefore, I will most likely take Scrimba class on [Flexbox](https://scrimba.com/learn/flexbox) and [CSS Grid](https://scrimba.com/learn/cssgrid) once I complete this React Course.
+
+🧠 **What I learned:**
+- I am lacking fundamental knowledge of CSS grid and flexbox. I am planning to take courses on those two once I am done with React!
+
+
+👩🏼‍💻 **What I built:**
+- I started my second solo project - [Travel Journal](https://github.com/codedbypolina/travel-journal)
+</details>
