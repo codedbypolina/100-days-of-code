@@ -208,3 +208,23 @@ I didn't host the images myself for this project. I found these images online. I
 👩🏼‍💻 **What I built:**
 - I updated my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react)
 </details>
+
+<details>
+<summary>Day 11: Finishing up Airbnb Clone Project</summary>
+
+🗓 **Date:** February 21, 2023
+
+📝 **Personal Notes:**
+
+Today completed Airbnb Project and finished the 2nd section of Scrimba React Course! I learned and practiced conditional rendering, how to pass object as props. Super excited to start my upcoming solo project - Travel Journal!
+
+🧠 **What I learned:**
+- Conditional rendering
+- Learned about CSS overflow-x - a super cool property that makes a scrolling trick super easy!
+- How to pass object as props, thus making a component simpler and code more efficient
+- Spread Operator
+
+
+👩🏼‍💻 **What I built:**
+- I completed my [Airbnb Clone Project](https://github.com/codedbypolina/airbnb-experience-react)
+</details>
