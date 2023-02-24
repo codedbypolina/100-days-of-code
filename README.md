@@ -245,3 +245,16 @@ Today I started my second solo project - [Travel Journal](https://github.com/cod
 👩🏼‍💻 **What I built:**
 - I started my second solo project - [Travel Journal](https://github.com/codedbypolina/travel-journal)
 </details>
+
+<details>
+<summary>Day 13: Finishing second Solo Project</summary>
+
+🗓 **Date:** February 23, 2023
+
+📝 **Personal Notes:**
+
+Today I completed my [Travel Journal project](https://github.com/codedbypolina/travel-journal)! I used React props and .map() to iterate over an array of data. I had lots of fun on this project! I can also officially say that while working on it, I am starting to see the real potential of React
+
+👩🏼‍💻 **What I built:**
+- I completed [Travel Journal project](https://github.com/codedbypolina/travel-journal)
+</details>
