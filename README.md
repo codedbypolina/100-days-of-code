@@ -302,3 +302,13 @@ According to the instructor of the course, this section is going to be the most 
 👩🏼‍💻 **What I built:**
 - I built main section of the [Meme Generator Project](https://github.com/codedbypolina/meme-generator)
 </details>
+
+<details>
+<summary>Day 17: ...Just console log a message...</summary>
+
+🗓 **Date:** February 27, 2023
+
+📝 **Personal Notes:**
+
+Yep, today was...a disappointing day for coding. Since I postponed time to code to the end of the day, I didn't have any energy or desire to learn or code something new. So all I did was console log a message to my website😅 It's all about tiny steps, I guess...
+</details>
