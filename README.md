@@ -312,3 +312,21 @@ According to the instructor of the course, this section is going to be the most 
 
 Yep, today was...a disappointing day for coding. Since I postponed time to code to the end of the day, I didn't have any energy or desire to learn or code something new. So all I did was console log a message to my website😅 It's all about tiny steps, I guess...
 </details>
+
+<details>
+<summary>Day 18: Just console log a message...</summary>
+
+🗓 **Date:** February 28, 2023
+
+📝 **Personal Notes:**
+
+Today I've made a lot more progress💪
+
+- I practiced React Event Listeners (such as onClick and onMouseEnter)
+- Practiced again how to map through an array in React
+- Practiced some Vanilla JavaScript
+- Learned about differences between props and state
+  
+I didn't build anything new since I was mostly practicing on Scrimba platform. Have to say, I am enjoying Scrimba a lot - the hands-on learning experience they are providing is incredible. Additionally, the instructor of the course, Bob Ziroll, has helped me understand props and state much better than other resources I used to learn them (including my Mobile Development class🥲). So happy to discover them!
+  
+</details>
