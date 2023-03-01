@@ -271,3 +271,20 @@ Today I was working on Mobile Development's lab. I had to develop a new feature 
 👩🏼‍💻 **What I built:**
 - I tried to create a new feature for the exercise app
 </details>
+
+<details>
+<summary>Day 15: Starting new section of the course + new project</summary>
+
+🗓 **Date:** February 25, 2023
+
+📝 **Personal Notes:**
+
+Started the third section of the Scrimba React course🥳 With that, I started working on the next project - a Meme generator. This seems to be a fun project to be working on, so I am excited.
+
+According to the instructor of the course, this section is going to be the most important section with a lot of information. Even by looking at the lenght of each section, this section is twice longer (5 hours long) than the previous two (2 / 2:30 hours long)!
+
+Today I was taking it easy and only created the header for the website!
+
+👩🏼‍💻 **What I built:**
+- I started [Meme Generator Project](https://github.com/codedbypolina/meme-generator) and built the header of the website.
+</details>
