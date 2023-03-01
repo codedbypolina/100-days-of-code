@@ -304,7 +304,7 @@ According to the instructor of the course, this section is going to be the most 
 </details>
 
 <details>
-<summary>Day 17: ...Just console log a message...</summary>
+<summary>Day 17: Just console log a message...</summary>
 
 🗓 **Date:** February 27, 2023
 
