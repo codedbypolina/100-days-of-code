@@ -258,3 +258,16 @@ Today I completed my [Travel Journal project](https://github.com/codedbypolina/t
 👩🏼‍💻 **What I built:**
 - I completed [Travel Journal project](https://github.com/codedbypolina/travel-journal)
 </details>
+
+<details>
+<summary>Day 14: Completing Mobile Development class lab</summary>
+
+🗓 **Date:** February 24, 2023
+
+📝 **Personal Notes:**
+
+Today I was working on Mobile Development's lab. I had to develop a new feature in the Exercise App. I was overconfident in my React skills and tried to create a complicated one. To be honest, the experience was very frustrating and I wasn't able to code what I had in mind. But at least I tried
+
+👩🏼‍💻 **What I built:**
+- I tried to create a new feature for the exercise app
+</details>
