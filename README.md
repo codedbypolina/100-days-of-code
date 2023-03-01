@@ -314,7 +314,7 @@ Yep, today was...a disappointing day for coding. Since I postponed time to code 
 </details>
 
 <details>
-<summary>Day 18: Just console log a message...</summary>
+<summary>Day 18: Lots of practice of different kind</summary>
 
 🗓 **Date:** February 28, 2023
 
@@ -329,4 +329,23 @@ Today I've made a lot more progress💪
   
 I didn't build anything new since I was mostly practicing on Scrimba platform. Have to say, I am enjoying Scrimba a lot - the hands-on learning experience they are providing is incredible. Additionally, the instructor of the course, Bob Ziroll, has helped me understand props and state much better than other resources I used to learn them (including my Mobile Development class🥲). So happy to discover them!
   
+</details>
+
+
+<details>
+<summary>Day 20: useState and ternary operator</summary>
+
+🗓 **Date:** March 1, 2023
+
+📝 **Personal Notes:**
+
+I am officially half way through the Scrimba React Course🥳 Today I learned how to use useState React hook as well as ternary operator. I remember when I looked at both useState hook and ternary operator in one of my professor's code examples, I was so confused. It looked so complicated, but 5 minutes after learning about each one of them, I realized that it's pretty simple! This is one of the reasons I enjoy coding so much - at the beginning it feels like you will never understand the code, let alone write it yourself, but with the right video/text explanation and some practice, I can easily read, understand and use the code myself :)
+  
+🧠 **What I learned:**
+- useState React hook and how it is different from props.
+- Ternary operator. I haven't learned how to use it up until now, and it wasn't as complicated as it seemed! [Video by FreeCodeCamp](https://www.youtube.com/watch?v=s4sB1hm73tw) helped me a lot to understand it. Thanks, [Beau Carnes](https://www.freecodecamp.org/news/author/beau/)! 
+
+
+👩🏼‍💻 **What I built:**
+- I made random meme image to pop up with each click of the button in [Meme Generator Project](https://github.com/codedbypolina/meme-generator). It worked with the first attempt (after learning how to use useState) - I got so excited and yelled out loud "IT WORKS!"
 </details>
