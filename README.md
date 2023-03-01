@@ -288,3 +288,17 @@ Today I was taking it easy and only created the header for the website!
 👩🏼‍💻 **What I built:**
 - I started [Meme Generator Project](https://github.com/codedbypolina/meme-generator) and built the header of the website.
 </details>
+
+<details>
+<summary>Day 16: Creating the main section of project</summary>
+
+🗓 **Date:** February 26, 2023
+
+📝 **Personal Notes:**
+
+Another short but sweet day of coding - I just added the main section of the website. Once again, I had to refresh my memory on flexbox😅 
+According to the instructor of the course, this section is going to be the most important section with a lot of information. Even by looking at the lenght of each section, this section is twice longer (5 hours long) than the previous two (2 / 2:30 hours long)!
+
+👩🏼‍💻 **What I built:**
+- I built main section of the [Meme Generator Project](https://github.com/codedbypolina/meme-generator)
+</details>
