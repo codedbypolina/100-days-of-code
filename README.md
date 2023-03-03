@@ -333,7 +333,7 @@ I didn't build anything new since I was mostly practicing on Scrimba platform. H
 
 
 <details>
-<summary>Day 20: useState and ternary operator</summary>
+<summary>Day 19: useState and ternary operator</summary>
 
 🗓 **Date:** March 1, 2023
 
@@ -348,4 +348,18 @@ I am officially half way through the Scrimba React Course🥳 Today I learned ho
 
 👩🏼‍💻 **What I built:**
 - I made random meme image to pop up with each click of the button in [Meme Generator Project](https://github.com/codedbypolina/meme-generator). It worked with the first attempt (after learning how to use useState) - I got so excited and yelled out loud "IT WORKS!"
+</details>
+
+
+<details>
+<summary>Day 20: Updating portfolio website</summary>
+
+🗓 **Date:** March 2, 2023
+
+📝 **Personal Notes:**
+
+I am planning to apply for internships/jobs soon, so today I updated my portfolio website. I added a new section called technologies that lists languages and tools I have experience with.
+
+I don't like how the website looks on the mobile screen, so I am planning to improve that next!
+  
 </details>
