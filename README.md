@@ -363,3 +363,14 @@ I am planning to apply for internships/jobs soon, so today I updated my portfoli
 I don't like how the website looks on the mobile screen, so I am planning to improve that next!
   
 </details>
+
+<details>
+<summary>Day 21: Updating portfolio website</summary>
+
+🗓 **Date:** March 3, 2023
+
+📝 **Personal Notes:**
+
+Today I made a tiny progress: Changed the size of technologies' logos according to the screen size. Didn't have time to do more because I am celebrating my anniversary with boyfriend😄
+  
+</details>
