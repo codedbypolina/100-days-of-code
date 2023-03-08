@@ -374,3 +374,14 @@ I don't like how the website looks on the mobile screen, so I am planning to imp
 Today I made a tiny progress: Changed the size of technologies' logos according to the screen size. Didn't have time to do more because I am celebrating my anniversary with boyfriend😄
   
 </details>
+
+<details>
+<summary>Day 22: Updating portfolio website</summary>
+
+🗓 **Date:** March 4, 2023
+
+📝 **Personal Notes:**
+
+Today I worked on updating my website a bit more! I fixed the hover effect for most logos on the website as well as updated the credit at the end of the website. Again not much, since I am going out of town
+  
+</details>
