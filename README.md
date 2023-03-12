@@ -419,3 +419,16 @@ Today I started designing this section in Figma as well as created the header of
 Keep working on a new section of my portfolio website! Today I've been styling the navbar and header of the website.
   
 </details>
+
+<details>
+<summary>Day 26: Working on a new section of the website</summary>
+
+🗓 **Date:** March 8, 2023
+
+📝 **Personal Notes:**
+
+Today I was working on creating CSS Grid using Bootstrap. That made me google a lot to refresh my memory on Bootstrap😅
+  
+</details>
+
+
