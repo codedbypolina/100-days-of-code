@@ -396,3 +396,16 @@ Today I worked on updating my website a bit more! I fixed the hover effect for m
 Another day where I worked on updating my portfolio website! I updated some minor aspects (such as animation text) as well as improved my resume. The reason I am focusing my attention on updating website is because I am applying for my first internship😅
   
 </details>
+
+<details>
+<summary>Day 24: Working on a new section of the website</summary>
+
+🗓 **Date:** March 6, 2023
+
+📝 **Personal Notes:**
+
+Since taking User-Centered Design class at my university, I became interested in UX/UI roles. I've been working on designing Language Learning App with my team of three since the beginning of the year. Even though the product design isn't ready yet, I decided to start developing a new section of my website where I will document our design process and decision making. 
+  
+Today I started designing this section in Figma as well as created the header of this website section! 
+</details>
+
