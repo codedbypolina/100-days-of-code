@@ -451,3 +451,13 @@ Today I was learning React Native in order to complete an assignment for my Mobi
 Have been working on the new section of my website again! I was mostly styling the project overview section. Had to remember how to use grid in Bootstrap as well as how to overlap different sections. Had lots of fun😁
 </details>
 
+<details>
+<summary>Day 29:Working on a new section of the website</summary>
+
+🗓 **Date:** March 11, 2023
+
+📝 **Personal Notes:**
+
+Today I created a footer section for the project overview page. Not much, but it is still small progress🙌
+</details>
+
