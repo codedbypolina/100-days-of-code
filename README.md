@@ -441,4 +441,13 @@ Today I was working on creating CSS Grid using Bootstrap. That made me google a 
 Today I was learning React Native in order to complete an assignment for my Mobile Development class. Specifically, I was working on creating a ToDo app! I struggled with adding a new task to a list but other than that, it went pretty well! It was interesting to see how my basic knowledge of React helped me understand React Native and create a very simple mobile app!
 </details>
 
+<details>
+<summary>Day 28:Working on a new section of the website</summary>
+
+🗓 **Date:** March 10, 2023
+
+📝 **Personal Notes:**
+
+Have been working on the new section of my website again! I was mostly styling the project overview section. Had to remember how to use grid in Bootstrap as well as how to overlap different sections. Had lots of fun😁
+</details>
 
