@@ -385,3 +385,14 @@ Today I made a tiny progress: Changed the size of technologies' logos according 
 Today I worked on updating my website a bit more! I fixed the hover effect for most logos on the website as well as updated the credit at the end of the website. Again not much, since I am going out of town
   
 </details>
+
+<details>
+<summary>Day 23: Updating portfolio website</summary>
+
+🗓 **Date:** March 5, 2023
+
+📝 **Personal Notes:**
+
+Another day where I worked on updating my portfolio website! I updated some minor aspects (such as animation text) as well as improved my resume. The reason I am focusing my attention on updating website is because I am applying for my first internship😅
+  
+</details>
