@@ -431,4 +431,14 @@ Today I was working on creating CSS Grid using Bootstrap. That made me google a 
   
 </details>
 
+<details>
+<summary>Day 27: Learning React Native</summary>
+
+🗓 **Date:** March 9, 2023
+
+📝 **Personal Notes:**
+
+Today I was learning React Native in order to complete an assignment for my Mobile Development class. Specifically, I was working on creating a ToDo app! I struggled with adding a new task to a list but other than that, it went pretty well! It was interesting to see how my basic knowledge of React helped me understand React Native and create a very simple mobile app!
+</details>
+
 
