@@ -409,3 +409,13 @@ Since taking User-Centered Design class at my university, I became interested in
 Today I started designing this section in Figma as well as created the header of this website section! 
 </details>
 
+<details>
+<summary>Day 25: Working on a new section of the website</summary>
+
+🗓 **Date:** March 7, 2023
+
+📝 **Personal Notes:**
+
+Keep working on a new section of my portfolio website! Today I've been styling the navbar and header of the website.
+  
+</details>
